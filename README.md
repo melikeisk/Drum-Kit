@@ -8,11 +8,8 @@ Bu proje, [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-developm
 
 ## 🚀 Özellikler
 
-- Klavye tuşları (`w`, `a`, `s`, `d`, `j`, `k`, `l`) ile farklı davul sesleri çalınabilir.
-- Butonlara tıklayarak da aynı sesler tetiklenebilir.
+- Kullanıcı, fare ile butonlara tıklayarak farklı davul sesleri çalabilir.
 - Her tuş için farklı bir görsel arka plan atanmıştır.
-- Basıldığında animasyon efekti ile kullanıcıya görsel geri bildirim verilir.
-
 
 ## 🛠️ Bu Projede Öğrenilenler
 - DOM manipülasyonu
@@ -28,11 +25,13 @@ Bu proje, [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-developm
 Projeyi çalıştırmak için herhangi bir ek kurulum gerekmez.
 
 1. Bu projeyi indir veya klonla:
+ 
+   git clone
    ```bash
-   git clone https://github.com/melikeisk/Drum-Kit.git
+   https://github.com/melikeisk/Drum-Kit.git
    ```
 
-2. `index.html` dosyasını bir tarayıcıda aç.
+3. `index.html` dosyasını bir tarayıcıda aç.
 
 > **Not:** `images/` ve `sounds/` klasörleri eksikse davul sesleri ve arka planlar düzgün çalışmayabilir.
 
