@@ -49,4 +49,3 @@ Projeyi çalıştırmak için herhangi bir ek kurulum gerekmez.
 Bu proje, **Dr. Angela Yu** tarafından hazırlanan  
 **The Complete Full-Stack Web Development Bootcamp**  
 adlı Udemy kursunun bir parçasıdır.
-
