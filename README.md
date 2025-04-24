@@ -7,9 +7,11 @@ Bu proje, [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-developm
 👉 [Projeyi Buradan Deneyin!](https://melikeisk.github.io/Drum-Kit/)
 
 ## 🚀 Özellikler
-
-- Kullanıcı, fare ile butonlara tıklayarak farklı davul sesleri çalabilir.
+- Klavye tuşları (`w`, `a`, `s`, `d`, `j`, `k`, `l`) ile farklı davul sesleri çalınabilir.
+- Butonlara tıklayarak da aynı sesler tetiklenebilir.
 - Her tuş için farklı bir görsel arka plan atanmıştır.
+- Basıldığında animasyon efekti ile kullanıcıya görsel geri bildirim verilir.
+
 
 ## 🛠️ Bu Projede Öğrenilenler
 - DOM manipülasyonu
