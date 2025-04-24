@@ -9,7 +9,7 @@ Bu proje, [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-developm
 ## 🚀 Özellikler
 
 - Kullanıcı, fare ile butonlara tıklayarak farklı davul sesleri çalabilir.
-- Her tuş için farklı bir görsel arka plan atanmıştır.
+- Her buton için farklı bir görsel arka plan atanmıştır.
 
 ## 🛠️ Bu Projede Öğrenilenler
 - DOM manipülasyonu
