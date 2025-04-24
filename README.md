@@ -26,7 +26,8 @@ Projeyi çalıştırmak için herhangi bir ek kurulum gerekmez.
 
 1. Bu projeyi indir veya klonla:
  
-   git clone   ```bash
+   git clone
+   ```bash
    https://github.com/melikeisk/Drum-Kit.git
    ```
 
