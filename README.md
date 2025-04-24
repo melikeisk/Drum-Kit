@@ -25,11 +25,12 @@ Bu proje, [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-developm
 Projeyi çalıştırmak için herhangi bir ek kurulum gerekmez.
 
 1. Bu projeyi indir veya klonla:
-   ```bash
-   git clone https://github.com/melikeisk/Drum-Kit.git
+ 
+   git clone   ```bash
+   https://github.com/melikeisk/Drum-Kit.git
    ```
 
-2. `index.html` dosyasını bir tarayıcıda aç.
+3. `index.html` dosyasını bir tarayıcıda aç.
 
 > **Not:** `images/` ve `sounds/` klasörleri eksikse davul sesleri ve arka planlar düzgün çalışmayabilir.
 
